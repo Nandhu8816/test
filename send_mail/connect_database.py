@@ -1,4 +1,4 @@
-import mysql.connector
+import pymysl as mysql
 db=mysql.connector.connect(
     host="localhost",
     user="root",
